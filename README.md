@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://dev-elie.netlify.app/](https://dev-elie.netlify.app/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/dev_elie?style=social)
+     ![Twitter Follow](https://img.shields.io/twitter/follow/dev_elie?style=social)
 
 
 <h3 align="left">Languages and Tools:</h3>
