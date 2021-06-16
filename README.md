@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ONDIEK ELIJAH OCHIENG</h1>
-<h3 align="center">A tech-savvy Software Deveoper from Kenya</h3>
+<h3 align="center">A tech-savvy Software Developer from Kenya</h3>
 
 - 🔭 I’m currently working on [an E-Commerce Multi vendor store](https://github.com/Dev-Elie/e-comm)
 
