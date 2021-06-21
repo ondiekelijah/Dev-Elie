@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ONDIEK ELIJAH OCHIENG</h1>
 <h3 align="center">A tech-savvy Software Developer from Kenya</h3>
-
+    
 - 🔭 I’m currently working on [an E-Commerce Multi vendor store](https://github.com/Dev-Elie/e-comm)
 
 - 🌱 I’m currently learning **React**
@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [https://dev-elie.netlify.app/](https://dev-elie.netlify.app/)
 
      ![Twitter Follow](https://img.shields.io/twitter/follow/dev_elie?style=social)
+     ![image title](https://rushter.com/counter.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
