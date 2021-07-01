@@ -3,15 +3,15 @@
     
 - 🔭 I’m currently working on a Hostel Reservation Web App
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://develie-portfolio.netlify.app/](https://develie-portfolio.netlify.app/)
 
-- 💬 Ask me about **Flask and Data Analysis**
+- 💬 Ask me about **FullStack Development**
 
 - 📫 How to reach me **eochieng9448@gmail.com**
 
-- 📄 Know about my experiences [https://dev-elie.netlify.app/](https://dev-elie.netlify.app/)
+- 📄 Know about my experiences [here](https://dev-elie.netlify.app/)
 
      ![Twitter Follow](https://img.shields.io/twitter/follow/dev_elie?style=social)
      ![image title](https://rushter.com/counter.svg)
