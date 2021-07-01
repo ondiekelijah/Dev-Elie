@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React & Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://develie-portfolio.netlify.app/](https://develie-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [develie-portfolio](https://develie-portfolio.netlify.app/)
 
 - 💬 Ask me about **FullStack Development**
 
