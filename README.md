@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [here](https://dev-elie.netlify.app/)
 
-     ![Twitter Follow](https://img.shields.io/twitter/follow/dev_elie?style=social)
+     ![Twitter Follow](https://img.shields.io/twitter/follow/dev_elie?style=social) <br>
      ![image title](https://rushter.com/counter.svg)
 
 
