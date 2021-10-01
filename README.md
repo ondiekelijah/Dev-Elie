@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **eochieng9448@gmail.com**
 
-- 📄 Know about my experiences [https://develie-portfolio.netlify.app/](https://develie-portfolio.netlify.app/)
+- 📄 Know about my experiences [here](https://ondiek-elijah.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
