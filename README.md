@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/dev_elie" target="blank"><img src="https://img.shields.io/twitter/follow/dev_elie?logo=twitter&style=for-the-badge" alt="dev_elie" /></a> </p>
 
-- 🔭 I’m currently working on [Physician Request Web App](https://github.com/Dev-Elie/Physician-Request-Web-App)
-
-- 🌱 I’m currently learning **React and Data Analysis**
-
-- 🤝 I’m looking for help with [Physician Request Web App](https://github.com/Dev-Elie/Physician-Request-Web-App)
-
 - 👨‍💻 All of my projects are available at [https://develie-portfolio.netlify.app/](https://develie-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Dev-Elie](https://hashnode.com/@Dev-Elie)
