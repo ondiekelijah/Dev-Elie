@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a headless CMS with Flask & Postgres](https://github.com/Dev-Elie/Flask-Headless-CMS)
 
-- 🌱 I’m currently learning **Docker , AWS & React**
+- 🌱 I’m currently learning **Web3.0**
 
 - 🤝 I’m looking for help with **the above mentioned project**
 
