@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Web3.0**
 
-- 🤝 I’m looking for help with **the above mentioned project**
+- 🤝 I’m looking for a **Full-Stack developer** role
 
 - 👨‍💻 All of my projects are available at [https://ondiek-elijah.me/](https://ondiek-elijah.me/)
 
 - 📝 I regularly write articles on [https://www.freecodecamp.org/news/author/ondiek/](https://www.freecodecamp.org/news/author/ondiek/)
 
-- 💬 Ask me about **Flask, FastAPI**
+- 💬 Ask me about **Flask, FastAPI & Technical Article Writing**
 
 - 📫 How to reach me **eochieng9448@gmail.com**
 
