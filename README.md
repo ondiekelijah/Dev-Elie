@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_elie" target="blank"><img src="https://img.shields.io/twitter/follow/dev_elie?logo=twitter&style=for-the-badge" alt="dev_elie" /></a> </p>
 
-- 🔭 I’m currently working on [a headless CMS with Flask & Postgres](https://github.com/Dev-Elie/Flask-Headless-CMS)
-
-- 🌱 I’m currently learning **Web3.0**
-
-- 🤝 I’m looking for a **Full-Stack developer** role
+- 🤝 I’m looking for a **Software Developer** role
 
 - 👨‍💻 All of my projects are available at [https://ondiek-elijah.me/](https://ondiek-elijah.me/)
 
