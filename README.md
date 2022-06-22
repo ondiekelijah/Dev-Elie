@@ -7,23 +7,20 @@
 
 - 🌱 I’m currently learning **DSA,the MERN stack & Azure**
 
-- 🤝 I’m looking for help with **cracking coding interviews**
-
 - 👨‍💻 All of my projects are available at [ondiek-elijah.me](ondiek-elijah.me)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Dev-Elie, https://www.freecodecamp.org/news/author/ondiek/ & https://dev.to/dev_elie](https://hashnode.com/@Dev-Elie, https://www.freecodecamp.org/news/author/ondiek/ & https://dev.to/dev_elie)
+- 📝 I regularly write articles on:
+  1. [Hashnode](https://hashnode.com/@Dev-Elie)
+  2. [FreeCodeCamp](https://www.freecodecamp.org/news/author/ondiek/)
+  3. [Dev.to](https://dev.to/dev_elie)
 
 - 💬 Ask me about **Flask, FastAPI, end-to-end testing & technical writing**
 
 - 📫 How to reach me **eochieng9448@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1h4ycIZ2_rVWdR4ZV443thAkEnsuwIGP-/edit?usp=sharing&ouid=116025691461816897164&rtpof=true&sd=true](https://docs.google.com/document/d/1h4ycIZ2_rVWdR4ZV443thAkEnsuwIGP-/edit?usp=sharing&ouid=116025691461816897164&rtpof=true&sd=true)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1h4ycIZ2_rVWdR4ZV443thAkEnsuwIGP-/edit?usp=sharing&ouid=116025691461816897164&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I'm a People person**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
