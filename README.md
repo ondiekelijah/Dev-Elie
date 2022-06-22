@@ -20,8 +20,6 @@
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1h4ycIZ2_rVWdR4ZV443thAkEnsuwIGP-/edit?usp=sharing&ouid=116025691461816897164&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I'm a People person**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev_elie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_elie" height="30" width="40" /></a>
