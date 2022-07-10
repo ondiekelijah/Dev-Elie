@@ -14,7 +14,7 @@
   2. [FreeCodeCamp](https://www.freecodecamp.org/news/author/ondiek/)
   3. [Dev.to](https://dev.to/dev_elie)
 
-- 💬 Ask me about **Full-stack** development with **JavaScript/Python, end-to-end testing, CI/CD & **technical writing**
+- 💬 Ask me about **Full-stack** development with **JavaScript/Python, end-to-end testing, CI/CD** & **technical writing**
 
 - 📫 How to reach me **eochieng9448@gmail.com**
 
