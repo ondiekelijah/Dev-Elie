@@ -9,10 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ondiek-elijah.me](ondiek-elijah.me)
 
-- 📝 I regularly write articles on:
-  1. [Hashnode](https://hashnode.com/@Dev-Elie)
-  2. [FreeCodeCamp](https://www.freecodecamp.org/news/author/ondiek/)
-  3. [Dev.to](https://dev.to/dev_elie)
+- 📝 I regularly write articles on: [ondiek-elijah.me/blog](https://www.ondiek-elijah.me/blog)
 
 - 💬 Ask me about **Full-stack** development with **JavaScript/Python, end-to-end testing, CI/CD** & **technical writing**
 
