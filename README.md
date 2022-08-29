@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,the MERN stack & Azure**
 
-- 👨‍💻 All of my projects are available at [ondiek-elijah.me](ondiek-elijah.me)
+- 👨‍💻 All of my projects are available at [ondiek-elijah.me](https://www.ondiek-elijah.me/)
 
 - 📝 I regularly write articles on: [ondiek-elijah.me/blog](https://www.ondiek-elijah.me/blog)
 
